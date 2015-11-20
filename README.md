@@ -9,7 +9,8 @@ This Odoo add-on has a modular and generic core, with the ability to be extended
 
 This project contains modules extending the connector for projects dealing with Medical.
 
-The project for the **Connector** framework is: https://github.com/laslabs/odoo_connector-medical
+The repo for the **Connector** framework is: https://github.com/OCA/connector
+The repo for the **Connector Medical** framework is: https://github.com/laslabs/odoo_connector-medical
 
 [//]: # (addons)
 Available addons

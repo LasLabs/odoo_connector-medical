@@ -7,7 +7,8 @@ Odoo Connector Medical
 
 This Odoo module adds logic necessary to sync the `medical` module from `vertical-medical`
 
-The project for the **Connector** framework is: https://github.com/laslabs/odoo_connector-medical
+The repo for the **Connector** framework is: https://github.com/OCA/connector
+The repo for the **Connector Medical** framework is: https://github.com/laslabs/odoo_connector-medical
 
 Credits
 =======
